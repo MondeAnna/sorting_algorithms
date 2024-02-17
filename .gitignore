@@ -1,0 +1,20 @@
+# everything
+*
+
+# except
+!.gitignore
+!*.c
+!*.h
+!*.md
+!*.sh
+!*.so
+!tests
+!0x*
+!src/
+!operations/
+!*-O
+
+# untracked: special
+main.c
+print_array.c
+print_list.c
