@@ -46,3 +46,9 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
 
 <br />
+
+#### Low Level Programming Projects
+
+* _[`Bubble Sort`](0-bubble_sort.c)_
+
+<br />
