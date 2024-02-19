@@ -51,5 +51,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 * _[`Bubble Sort`](0-bubble_sort.c)_
 * _[`Selection Sort`](2-selection_sort.c)_
+* _[`Quick Sort`](3-quick_sort.c)_
 
 <br />
